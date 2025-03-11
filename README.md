@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - accounting department needs an adobe upgrade
 - CFO's laptop won't turn on anymore
 <h2></h2>
-Lets create one of our example tickets
+Lets create one of our example intake tickets
 <p>
 <img src="https://i.imgur.com/MHyXghN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
